@@ -1,0 +1,22 @@
+🚀 Capstone Project Completed — Student Success Predictor 🎓
+
+I’m excited to share my end-to-end Machine Learning capstone project, built as part of my learning journey with Neurofive Solutions.
+
+I built a Student Success Predictor that estimates expected exam performance using academic, learning, family, and school-related factors.
+
+🔹 Data cleaning & preprocessing  
+🔹 Exploratory Data Analysis  
+🔹 Feature engineering  
+🔹 Multiple regression models  
+🔹 Model evaluation & comparison  
+🔹 Best-model selection  
+🔹 Streamlit deployment  
+🔹 GitHub documentation & case study
+
+The final model was integrated into an interactive Streamlit application so users can enter student information and receive an estimated exam score.
+
+This project helped me understand the complete ML lifecycle — from defining a real-world problem to deploying a usable ML product.
+
+Special thanks to Neurofive Solutions for providing an environment to build and practice real-world Data Science skills.
+
+#MachineLearning #DataScience #Python #ScikitLearn #Streamlit #CapstoneProject #NeurofiveSolutions #AI #DataAnalytics

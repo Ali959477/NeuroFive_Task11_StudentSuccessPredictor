@@ -1,0 +1,62 @@
+{
+  "Parental_Involvement": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "Access_to_Resources": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "Extracurricular_Activities": [
+    "No",
+    "Yes"
+  ],
+  "Motivation_Level": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "Internet_Access": [
+    "No",
+    "Yes"
+  ],
+  "Family_Income": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "Teacher_Quality": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "School_Type": [
+    "Private",
+    "Public"
+  ],
+  "Peer_Influence": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "Learning_Disabilities": [
+    "No",
+    "Yes"
+  ],
+  "Parental_Education_Level": [
+    "College",
+    "High School",
+    "Postgraduate"
+  ],
+  "Distance_from_Home": [
+    "Far",
+    "Moderate",
+    "Near"
+  ],
+  "Gender": [
+    "Female",
+    "Male"
+  ]
+}
