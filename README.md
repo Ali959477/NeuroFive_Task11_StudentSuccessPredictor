@@ -58,3 +58,13 @@ The complete preprocessing and model pipeline was saved as:
 
 ```text
 model.pkl
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the Titanic Survival Prediction App:**  
+https://titanic-prediction-task-11.streamlit.app/
+
+The application allows users to enter passenger details and get an instant Titanic survival prediction.
+
+---
