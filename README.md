@@ -26,6 +26,7 @@ The project demonstrates data preprocessing, feature engineering, machine learni
 The project follows these main steps:
 
 ### 1. Data Preparation
+
 - Loaded the Titanic dataset using Pandas.
 - Selected relevant passenger features.
 - Handled missing values using imputation.
@@ -56,15 +57,36 @@ A **Random Forest Classifier** was trained to predict passenger survival.
 
 The complete preprocessing and model pipeline was saved as:
 
-```text
-model.pkl
+`model.pkl`
+
 ---
 
 ## 🌐 Live Demo
 
-🚀 **Try the Titanic Survival Prediction App:**  
-https://titanic-prediction-task-11.streamlit.app/
+🚀 **Try the Titanic Survival Prediction App:**
+
+[**Titanic Survival Prediction — Live Demo**](https://titanic-prediction-task-11.streamlit.app/)
 
 The application allows users to enter passenger details and get an instant Titanic survival prediction.
 
 ---
+
+## 📊 Results
+
+The trained Random Forest model successfully predicts Titanic passenger survival based on the provided passenger information.
+
+The Streamlit application provides:
+
+- Passenger information input
+- Instant survival prediction
+- Clear prediction result
+- Easy-to-use interactive interface
+
+---
+
+## 💻 How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Ali959477/NeuroFive_Task11_StudentSuccessPredictor/tree/main
